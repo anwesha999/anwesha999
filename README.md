@@ -52,9 +52,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwesha999&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwesha999&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
-</p>
-
 <p align="center"><i>If something here helped you, drop a ⭐ — and say hi on <a href="https://www.linkedin.com/in/anwesha-sinha/">LinkedIn</a>!</i></p>
